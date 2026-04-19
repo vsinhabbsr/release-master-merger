@@ -2,3 +2,4 @@ Changelog
 
 - Initial project setup
 - Added planning and release documentation files
+- test
