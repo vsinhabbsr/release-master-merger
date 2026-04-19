@@ -4,3 +4,4 @@ Release Plan
 2. Test core functionality
 3. Prepare release notes
 4. Coordinate merge into master
+5. Aditi Karan
