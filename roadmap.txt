@@ -1,0 +1,5 @@
+Roadmap
+
+- Phase 1: MVP release
+- Phase 2: stabilization and bug fixes
+- Phase 3: expanded features and maintenance

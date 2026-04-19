@@ -1,0 +1,6 @@
+Release Plan
+
+1. Finalize MVP scope
+2. Test core functionality
+3. Prepare release notes
+4. Coordinate merge into master

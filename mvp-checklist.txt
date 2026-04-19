@@ -1,0 +1,6 @@
+MVP Checklist
+
+- [ ] Core feature implementation
+- [ ] Basic UI/UX flow
+- [ ] Regression testing
+- [ ] Documentation ready

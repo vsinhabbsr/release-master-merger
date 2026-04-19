@@ -1,0 +1,5 @@
+Feature Notes
+
+- Add initial MVP features
+- Track dependencies and scope
+- Review integration requirements
